@@ -24,6 +24,7 @@ class MainActivity : AppCompatActivity() {
         super.onCreate(savedInstanceState)
         setContentView(R.layout.activity_main)
 
+        //this is a new change/comment on 4/12/23 to commit and push to the git repository
 
     //find view by id to get views into variables
         val multiply = findViewById<Button>(R.id.button2)
